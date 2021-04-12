@@ -1,0 +1,3 @@
+Las imágenes las tengo guardadas en la carpeta src del proyecto, siguiendo
+la siguiente ruta: "src/covid.png" o bien "src/background.png"
+ 
